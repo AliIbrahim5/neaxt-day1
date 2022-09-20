@@ -8,11 +8,15 @@
 
  ➤ Next.js
 
-#install Next.js
+# install Next.js
 
 ➤ npx create-next-app yuorname --use-npm
 
+# to run the project
 
+**npm run dev**
+   
+  
 # Folders with pages created in the project:
 
 **components**
