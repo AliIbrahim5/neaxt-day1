@@ -6,7 +6,7 @@
 
 # used packages:
 
->> Next.js
+ ➤ Next.js
 
 #install Next.js
 
@@ -17,16 +17,24 @@
 
 **components**
 ➤ ArticleItem
+
 ➤ Articlelist
+
 ➤ Header
+
 ➤ Layout
+
 ➤ Meta
+
 ➤ Nav
 
 **pages**
 ➤ article
+
 ➤ _document
+
 ➤ about
+
 ➤ countict
 
 **config**
