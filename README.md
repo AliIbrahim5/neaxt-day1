@@ -14,9 +14,9 @@
 
 # to run the project
 
-# **npm run dev**
+➤ **npm run dev**
 
-# **npm start**
+➤ **npm start**
    
   
 # Folders with pages created in the project:
